@@ -42,9 +42,9 @@ Think of me as a code artisan – I love crafting efficient and robust systems. 
 
 ## Let's Connect! 🤝
 
-* **Email:** baderamer1000@gmail.com
+* **Email:** bader.amer.ce@gmail.com
 * **LinkedIn:** [Bader Amer](https://linkedin.com/in/baderamer)
-* **GitHub:** [baderamerthefirst](https://github.com/baderamerthefirst)
+* **GitHub:** [baderamer-dev](https://github.com/baderamer-dev)
 * **Portfolio:** [bader-amer.netlify.app](https://bader-amer.netlify.app/)
 
 ---
