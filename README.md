@@ -6,7 +6,7 @@ Hey there! I'm Bader Amer, a Computer Engineer with a passion for turning comple
 
 ## About Me 🧑‍💻
 
-Think of me as a code artisan – I love crafting efficient and robust systems. Whether it's building full-stack applications or tinkering with hardware for environmental monitoring, I'm always eager to learn and tackle new challenges. I believe in the power of technology to make a real-world impact, and I'm constantly seeking opportunities to push the boundaries of what's possible.
+I am software engineer with experience in building efficient, user-centric solutions in the financial sector. I specialize in debugging edge cases, optimizing performance, and develop seamless features.
 
 ---
 
