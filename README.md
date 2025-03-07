@@ -19,26 +19,6 @@ Think of me as a code artisan – I love crafting efficient and robust systems. 
 
 ---
 
-## Project Highlights ✨
-
-* **Full-Stack Ticketing System:** Streamlined issue resolution with a React frontend, Node.js backend, and Oracle database, secured with JWT authentication.
-* **Air Pollution Measurement System:** A collaborative project using Arduino and Raspberry Pi, featuring a Python GUI for real-time environmental data visualization.
-* **API Testing & Automation:** Automated report generation and rigorous testing of mobile APIs using Python and Postman.
-* **Movie Search Application:** A dynamic web app built with JavaScript, HTML, and CSS, showcasing my frontend skills.
-
----
-
-## Professional Journey 💼
-
-* **Backend and Database Specialist, EALB** (09/2023 – Present, Al Bireh)
-    * Optimized Oracle SQL queries and PL/SQL scripts, enhancing database performance.
-    * Developed robust APIs using Python and Django, and automated reporting tasks.
-    * Implemented Docker for seamless application deployment and management.
-* **Backend-Database Intern, ProGineer Technologies** (06/2023 – 08/2023, Al Bireh)
-    * Conducted performance benchmarking across Oracle, MongoDB, and Cassandra.
-    * Created a user-friendly Python GUI for streamlined database interactions.
-
----
 
 ## Let's Connect! 🤝
 
